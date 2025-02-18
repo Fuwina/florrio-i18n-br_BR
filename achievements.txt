@@ -1,6 +1,6 @@
-Achievements/0/Name=Tutorial
-Achievements/0/Description=Move a little bit.
-Achievements/0/ExtraDescription=Use your mouse to move. Your flower will automatically follow your cursor.<n/>You can change to keyboard movement in the settings menu.<n/><n/>Move a little bit to proceed.
+Achievements/0/Name=Rizzorial
+Achievements/0/Description=Shift that gyatt a smidge.
+Achievements/0/ExtraDescription=Use your mouse rizz to slide. Your cute flower will simp a shit ton for your cursor and follow it.<n/>You can swap to skibidi keyboard controls in the settings menu.<n/><n/>Do a lil skibidi to edge.
 
 Achievements/1/Name=Tutorial
 Achievements/1/Description=Kill a mob.
