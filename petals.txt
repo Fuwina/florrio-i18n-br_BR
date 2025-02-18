@@ -34,13 +34,13 @@ Petals/missile/Name=Black
 Petals/missile/FullName=Black Thing
 Petals/missile/Description=Thrusts forwards at mach speeds, so fast that it comes off u and penetrates things from far away.
 
-Petals/grapes/Name=Grapes
-Petals/grapes/FullName=Grapes
-Petals/grapes/Description=It goes poof. Now with a secret ingredient: poison.
+Petals/grapes/Name=Wine
+Petals/grapes/FullName=Fine Wine
+Petals/grapes/Description=Ur grandma is addicted to this shit. So addicting that it causes alcohol poison to ur enemies.
 
-Petals/cactus/Name=Cactus
-Petals/cactus/FullName=Cactus
-Petals/cactus/Description=Not very strong, but somehow increases your maximum health.
+Petals/cactus/Name=Health
+Petals/cactus/FullName=Health Buffer
+Petals/cactus/Description=Boosts ur mewing abilities and gives u muscles. Not that weak imo but a bit below average.
 
 Petals/faster/Name=Faster
 Petals/faster/FullName=Faster
