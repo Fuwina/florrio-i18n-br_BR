@@ -2,9 +2,9 @@ Petals/basic/Name=Basic
 Petals/basic/FullName=Basic Unsigma NPC Ahh Petal
 Petals/basic/Description=Literally the most unoriginal petal but rare as shit for some reason.
 
-Petals/light/Name=Light
-Petals/light/FullName=Light
-Petals/light/Description=Weaker than most petals, but recharges very quickly.
+Petals/light/Name=Beads
+Petals/light/FullName=Anal Beads
+Petals/light/Description=Came straight from the insects. Weaker than your ego, shove it up ur ass and u might feel better. Recharges hella fast.
 
 Petals/rock/Name=Rock
 Petals/rock/FullName=Rock
