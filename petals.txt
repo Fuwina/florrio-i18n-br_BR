@@ -22,17 +22,17 @@ Petals/stinger/Name=PVP
 Petals/stinger/FullName=#1 PVP Petal
 Petals/stinger/Description=More Fragile than your ego. Slow reload, but gigachad damage.
 
-Petals/iris/Name=Iris
-Petals/iris/FullName=Iris
-Petals/iris/Description=Very poisonous, but takes a little while to do its work.<n/>-50% damage vs other flowers.
+Petals/iris/Name=Toxic
+Petals/iris/FullName=Level 99 Poison Damage
+Petals/iris/Description=Literally so toxic, but takes a minute to hit different.<n/>-50% mogging power vs other flower gang.
 
-Petals/wing/Name=Wing
-Petals/wing/FullName=Wing
-Petals/wing/Description=It comes and goes.
+Petals/wing/Name=Common
+Petals/wing/FullName=Most Common DPS Petal
+Petals/wing/Description=Everyone has at least one skibidi super of these. Goes back and forth, just like me to your mom.
 
-Petals/missile/Name=Missile
-Petals/missile/FullName=Missile
-Petals/missile/Description=You can actually shoot this one.
+Petals/missile/Name=Black
+Petals/missile/FullName=Black Thing
+Petals/missile/Description=Thrusts forwards at mach speeds, so fast that it comes off u and penetrates things from far away.
 
 Petals/grapes/Name=Grapes
 Petals/grapes/FullName=Grapes
