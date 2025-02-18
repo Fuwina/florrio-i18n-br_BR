@@ -1,6 +1,6 @@
 Petals/basic/Name=Basic
-Petals/basic/FullName=Basic
-Petals/basic/Description=A nice petal, not too strong but not too weak.
+Petals/basic/FullName=Basic Unsigma NPC Ahh Petal
+Petals/basic/Description=Literally the most unoriginal petal but rare as shit for some reason.
 
 Petals/light/Name=Light
 Petals/light/FullName=Light
