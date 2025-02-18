@@ -6,21 +6,21 @@ Petals/light/Name=Beads
 Petals/light/FullName=Anal Beads
 Petals/light/Description=Came straight from the insects. Weaker than your ego, shove it up ur ass and u might feel better. Recharges hella fast.
 
-Petals/rock/Name=Rock
-Petals/rock/FullName=Rock
-Petals/rock/Description=Extremely durable, but takes a bit longer to recharge.
+Petals/rock/Name=Cock
+Petals/rock/FullName=Oddly-Shaped Cock
+Petals/rock/Description=Always hard. Needs a sec to recharge sigma hardness girth energy.
 
-Petals/square/Name=Square
-Petals/square/FullName=Square
-Petals/square/Description=This shape... it looks familiar...
+Petals/square/Name=Fire
+Petals/square/FullName=FIRE IN THE HOLE
+Petals/square/Description=Im Fi- RE IN THE HOLE. Most skibidi sigma rare mogger shape.
 
-Petals/rose/Name=Rose
-Petals/rose/FullName=Rose
-Petals/rose/Description=Its healing properties are amazing. Not so good at combat though.
+Petals/rose/Name=Pink
+Petals/rose/FullName=Skibidi Pink Circle
+Petals/rose/Description=Its skibidi heals are OP asf. Aint able to do shit in pvp tho.
 
-Petals/stinger/Name=Stinger
-Petals/stinger/FullName=Stinger
-Petals/stinger/Description=It really hurts, but it's very fragile.
+Petals/stinger/Name=PVP
+Petals/stinger/FullName=#1 PVP Petal
+Petals/stinger/Description=More Fragile than your ego. Slow reload, but gigachad damage.
 
 Petals/iris/Name=Iris
 Petals/iris/FullName=Iris
